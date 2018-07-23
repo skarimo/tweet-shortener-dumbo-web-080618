@@ -22,7 +22,7 @@ def word_substituter(string)
         word = word
     end
   end
-  new_word.join(" ")
+  return new_word.join(" ")
 end
 
 
